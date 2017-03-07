@@ -1,0 +1,17 @@
+#include "Config_EmergLights.hpp"
+#include "CfgRemoteExec.hpp"
+
+class CfgFunctions {
+    #include "Functions.hpp"
+};
+
+class CfgSounds
+{
+	sounds[] = {};
+	class siren
+	{
+		name = "siren";
+		sound[] = {"sounds\siren.ogg", 1.0, 1};
+		titles[] = {};
+	};
+};

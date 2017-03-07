@@ -1,0 +1,1 @@
+script ready to use, can be modify to fit your wishes
